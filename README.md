@@ -22,8 +22,6 @@ Key outcomes of the analysis are the recommendations for future marketing campai
 1. Bank Marketing Analysis.ipynb - Jupyter Notebook (Python 3) which contains code for the analysis.
 2. bank.csv - dataset used for the analysis.
 3. rawpixel-594763-unsplash.jpg - image, used in the Jupyter Notebook.
+4.app.py file for use this code in streamlit
+5.required.txt file for library
 
-## External references
-1. __[Dataset on kaggle](https://www.kaggle.com/janiobachmann/bank-marketing-dataset)__
-2. __[Kaggle kernel, which contains description of the dataset](https://www.kaggle.com/janiobachmann/marketing-in-banking-opening-term-deposits)__
-3. __[Kaggle kernel, which contains stacking implementation used in code](https://www.kaggle.com/arthurtok/introduction-to-ensembling-stacking-in-python)__
