@@ -1,8 +1,7 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-#import plotly.express as px
-import matplotlib.pyplot as plt
+import plotly.express as px
 import time  
 
 df = pd.read_csv('./bank.csv')
